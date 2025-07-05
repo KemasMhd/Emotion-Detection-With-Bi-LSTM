@@ -2,12 +2,23 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)](https://jupyter.org)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Data Science](https://img.shields.io/badge/Data-Science-purple.svg)](notebooks/)
 
 ## 📋 Project Overview
 
-This project implements an advanced **emotion detection system** using machine learning to analyze and classify emotions in counseling conversation texts. The system processes data from the CounselChat dataset, which contains real counseling questions and responses, to automatically detect emotional states that can assist mental health professionals in understanding client needs.
+This proje## 🙏 Acknowle---
+
+## ⭐ Star This Repositorydiff NLP**: RoBERTa emotion classification model
+- **CounselChat**: Original dataset source
+- **Hugging Face**: Transformer model infrastructure
+- **TensorFlow/Keras**: Deep learning framework
+
+## 🙏 Acknowledgmentsowledgments
+
+- **Cardiff NLP**: RoBERTa emotion classification model
+- **CounselChat**: Original dataset source
+- **Hugging Face**: Transformer model infrastructure
+- **Scikit-learn**: Machine learning framework advanced **emotion detection system** using machine learning to analyze and classify emotions in counseling conversation texts. The system processes data from the CounselChat dataset, which contains real counseling questions and responses, to automatically detect emotional states that can assist mental health professionals in understanding client needs.
 
 ### 🎯 Key Features
 
@@ -66,7 +77,6 @@ Emotion_Detection_With_Bi_LSTM/
 │   └── README.md               # Documentation guide
 ├── 📄 README.md                # This file
 ├── 📄 requirements.txt         # Python dependencies
-├── 📄 LICENSE                  # MIT License
 └── 📄 .gitignore              # Git ignore rules
 ```
 
