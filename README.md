@@ -6,19 +6,9 @@
 
 ## 📋 Project Overview
 
-This proje## 🙏 Acknowle---
+This project---
 
-## ⭐ Star This Repositorydiff NLP**: RoBERTa emotion classification model
-- **CounselChat**: Original dataset source
-- **Hugging Face**: Transformer model infrastructure
-- **TensorFlow/Keras**: Deep learning framework
-
-## 🙏 Acknowledgmentsowledgments
-
-- **Cardiff NLP**: RoBERTa emotion classification model
-- **CounselChat**: Original dataset source
-- **Hugging Face**: Transformer model infrastructure
-- **Scikit-learn**: Machine learning framework advanced **emotion detection system** using machine learning to analyze and classify emotions in counseling conversation texts. The system processes data from the CounselChat dataset, which contains real counseling questions and responses, to automatically detect emotional states that can assist mental health professionals in understanding client needs.
+## ⭐ Star This Repositoryanced **emotion detection system** using machine learning to analyze and classify emotions in counseling conversation texts. The system processes data from the CounselChat dataset, which contains real counseling questions and responses, to automatically detect emotional states that can assist mental health professionals in understanding client needs.
 
 ### 🎯 Key Features
 
@@ -189,7 +179,7 @@ Multiple algorithms tested:
 ### Quick Start
 
 ```bash
-git clone https://github.com/your-username/Emotion_Detection_With_Bi_LSTM.git
+git clone https://github.com/KemasMhd/Emotion_Detection_With_Bi_LSTM.git
 cd Emotion_Detection_With_Bi_LSTM
 pip install -r requirements.txt
 jupyter lab
@@ -294,7 +284,7 @@ nltk.download('omw-1.4')
 
 ```python
 import pandas as pd
-df = pd.read_csv('counselchat-data.csv')
+df = pd.read_csv('data/counselchat-data.csv')
 ```
 
 ### 2. Run Preprocessing
