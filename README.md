@@ -8,7 +8,7 @@
 
 This project---
 
-## ⭐ Star This Repositoryanced **emotion detection system** using machine learning to analyze and classify emotions in counseling conversation texts. The system processes data from the CounselChat dataset, which contains real counseling questions and responses, to automatically detect emotional states that can assist mental health professionals in understanding client needs.
+This project implements an advanced **emotion detection system** using machine learning to analyze and classify emotions in counseling conversation texts. The system processes data from the CounselChat dataset, which contains real counseling questions and responses, to automatically detect emotional states that can assist mental health professionals in understanding client needs.
 
 ### 🎯 Key Features
 
