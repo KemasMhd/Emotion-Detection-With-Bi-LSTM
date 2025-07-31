@@ -369,14 +369,6 @@ df = pd.read_csv('data/counselchat-data.csv')
 - **Hugging Face**: Transformer model infrastructure
 - **TensorFlow/Keras**: Deep learning framework
 
-## 📞 Contact
-
-For questions or collaboration opportunities:
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## � Acknowledgments
 
 - **Cardiff NLP**: RoBERTa emotion classification model
